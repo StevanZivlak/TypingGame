@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TypingGame/precache-manifest.e0fb18e2726dc0dbb4cf4b1a1096523f.js"
+  "/TypingGame/precache-manifest.88243e91c86b39682bc647f6252c9c5a.js"
 );
 
 self.addEventListener('message', (event) => {

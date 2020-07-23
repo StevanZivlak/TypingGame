@@ -1,10 +1,10 @@
 html, body {
     background: black;
-    color: #00b800;
+    color: #2b5aa6;
     margin:0;
     padding: 0;
     padding-top: 10px;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Fredoka One', cursive;
     text-align: center;
 }
 
@@ -13,13 +13,13 @@ body {
 }
 
 button {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Fredoka One', cursive;
+    font-size: 25px;
     display: block;
     margin: 0 auto;
     border: none;
-    background: #a80020;
-    background: #00b800;
-    padding: 10px 20px;
+    background: #2b5aa6;
+    padding: 20px 20px;
     text-transform: uppercase;
 }
 
@@ -33,13 +33,13 @@ h1 {
 }
 
 textarea {
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Fredoka One', cursive;
     border: 3px solid black;
     width: 90%;
     margin: 0 auto;
     outline: none;
     height: 200px;
-    background: #00b800;
+    background: #2b5aa6;
     padding: 10px;
 }
 

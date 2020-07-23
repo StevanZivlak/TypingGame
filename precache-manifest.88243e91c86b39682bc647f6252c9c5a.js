@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13938b78ab4560f50566e7d101b3181d",
+    "revision": "5e95c62e63adc1d5949136ce0f61a4b5",
     "url": "/TypingGame/index.html"
   },
   {
