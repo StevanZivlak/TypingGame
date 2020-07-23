@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.d210255b.chunk.js",
-    "main.js.map": "/static/js/main.d210255b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.99b70231.js",
-    "runtime-main.js.map": "/static/js/runtime-main.99b70231.js.map",
-    "static/js/2.84d614a5.chunk.js": "/static/js/2.84d614a5.chunk.js",
-    "static/js/2.84d614a5.chunk.js.map": "/static/js/2.84d614a5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f597d63f006dce65b55cb0d204c4e2ff.js": "/precache-manifest.f597d63f006dce65b55cb0d204c4e2ff.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.84d614a5.chunk.js.LICENSE.txt": "/static/js/2.84d614a5.chunk.js.LICENSE.txt"
+    "main.js": "/TypingGame/static/js/main.d210255b.chunk.js",
+    "main.js.map": "/TypingGame/static/js/main.d210255b.chunk.js.map",
+    "runtime-main.js": "/TypingGame/static/js/runtime-main.4cbac201.js",
+    "runtime-main.js.map": "/TypingGame/static/js/runtime-main.4cbac201.js.map",
+    "static/js/2.84d614a5.chunk.js": "/TypingGame/static/js/2.84d614a5.chunk.js",
+    "static/js/2.84d614a5.chunk.js.map": "/TypingGame/static/js/2.84d614a5.chunk.js.map",
+    "index.html": "/TypingGame/index.html",
+    "precache-manifest.e0fb18e2726dc0dbb4cf4b1a1096523f.js": "/TypingGame/precache-manifest.e0fb18e2726dc0dbb4cf4b1a1096523f.js",
+    "service-worker.js": "/TypingGame/service-worker.js",
+    "static/js/2.84d614a5.chunk.js.LICENSE.txt": "/TypingGame/static/js/2.84d614a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99b70231.js",
+    "static/js/runtime-main.4cbac201.js",
     "static/js/2.84d614a5.chunk.js",
     "static/js/main.d210255b.chunk.js"
   ]
